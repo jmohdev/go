@@ -1,2 +1,6 @@
 bin/
 pkg/
+src/upload_file/go.sum
+src/upload_file/go.mod
+src/REST_API_mux/go.mod
+src/REST_API_mux/go.sum
