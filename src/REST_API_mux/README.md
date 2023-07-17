@@ -413,8 +413,34 @@ func NewHandler() http.Handler {
 	return mux
 }
 ```
+
+
 ### TEST : Method Transfer
 https://github.com/frigus02/RESTer
+
+__POST /users First User__  
+
+![POST_/users_First_User](../../img/go_025.png)
+
+__GET /users__  
+
+![GET_/users](../../img/go_026.png)
+
+__GET /users/1__  
+
+![GET_/users/1](../../img/go_027.png)
+
+__POST HEADERS__  
+
+![POST_HEADERS](../../img/go_028.png)
+
+__POST /users Second User__  
+
+![POST_/users_Second_User](../../img/go_029.png)
+
+__GET /users/2__  
+
+![GET_/users/2](../../img/go_030.png)
 
 ### TEST : DELETE Method
 Mock-up > DELETE Method > (test) POST Method > (test) DELETE Method > (test) Response
