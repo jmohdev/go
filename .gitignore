@@ -5,3 +5,5 @@ src/upload_file/go.mod
 src/REST_API_mux/go.mod
 src/REST_API_mux/go.sum
 src/Decorator_pattern/go.mod
+src/Decorator_Handle/go.sum
+src/Decorator_Handle/go.mod
