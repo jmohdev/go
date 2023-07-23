@@ -7,3 +7,4 @@ src/REST_API_mux/go.sum
 src/Decorator_pattern/go.mod
 src/Decorator_Handle/go.sum
 src/Decorator_Handle/go.mod
+src/template_example/go.mod

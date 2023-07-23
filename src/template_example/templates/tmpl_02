@@ -1,0 +1,10 @@
+<html>
+<header>
+<title> Template </title>
+</header>
+<body>
+{{range .}}
+{{template "tmpl_01" .}}
+{{end}}
+</body>
+</html>
