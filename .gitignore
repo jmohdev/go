@@ -8,3 +8,5 @@ src/Decorator_pattern/go.mod
 src/Decorator_Handle/go.sum
 src/Decorator_Handle/go.mod
 src/template_example/go.mod
+src/pacake_example/go.mod
+src/pacake_example/go.sum
